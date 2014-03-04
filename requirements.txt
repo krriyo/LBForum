@@ -1,6 +1,6 @@
 BeautifulSoup==3.2.1
 Django==1.5.2
--e git+https://github.com/vicalloy/LBForum.git@02d43d4bef82c7e920424507da7dedd5e950a747#egg=LBForum-master
+-e git+https://github.com/krriyo/LBForum.git#egg=LBForum-master
 Pillow==2.3.0
 South==0.8.4
 dj-database-url==0.2.2
