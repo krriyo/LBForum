@@ -12,7 +12,7 @@ django-onlineuser==0.8.7
 django-pagination==1.0.7
 -e git+https://github.com/krriyo/django-simple-avatar.git@71ab00801c465935a1eaba3ab97ddf4d36461f30#egg=django_simple_avatar-master
 gunicorn==18.0
-postmarkup==1.2.0
+--allow-external postmarkup --allow-unverified postmarkup postmarkup==1.2.0
 psycopg2==2.5.2
 pystache==0.5.3
 static==1.0.2
