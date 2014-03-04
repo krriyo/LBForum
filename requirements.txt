@@ -1,15 +1,15 @@
 BeautifulSoup==3.2.1
-Django==1.6.2
--e git+https://github.com/vicalloy/LBForum.git@02d43d4bef82c7e920424507da7dedd5e950a747#egg=LBForum-dev
+Django==1.5.2
+-e git+https://github.com/vicalloy/LBForum.git@02d43d4bef82c7e920424507da7dedd5e950a747#egg=LBForum-master
 PIL==1.1.7
 South==0.8.4
 dj-database-url==0.2.2
 dj-static==0.0.5
 django-helper==0.8.4
--e git+https://github.com/krriyo/django-lb-attachments.git@e2f23da0842c8824cc36fcc965f447cee0185ce2#egg=django_lb_attachments-dev
+-e git+https://github.com/krriyo/django-lb-attachments.git@e2f23da0842c8824cc36fcc965f447cee0185ce2#egg=django_lb_attachments-master
 django-onlineuser==0.8.7
 django-pagination==1.0.7
--e git+https://github.com/krriyo/django-simple-avatar.git@71ab00801c465935a1eaba3ab97ddf4d36461f30#egg=django_simple_avatar-dev
+-e git+https://github.com/krriyo/django-simple-avatar.git@71ab00801c465935a1eaba3ab97ddf4d36461f30#egg=django_simple_avatar-master
 gunicorn==18.0
 postmarkup==1.2.0
 psycopg2==2.5.2
